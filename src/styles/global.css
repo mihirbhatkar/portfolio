@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Fira Code";
+  font-family: "Fira Code, monospace";
   src: url("/fonts/FiraCode-VariableFont_wght.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -7,5 +7,5 @@
 }
 
 body {
-  font-family: "Fira Code";
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
